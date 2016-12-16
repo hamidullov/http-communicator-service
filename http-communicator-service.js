@@ -100,5 +100,5 @@
         
     };
 
-    angular.module('vtbClientPortal.http', ['vtbClientPortal.config']).provider('HttpCommunicator', HttpCommunicator);
+    angular.module('vtbClientPortal.http', []).provider('HttpCommunicator', HttpCommunicator);
 })();
