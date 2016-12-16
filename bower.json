@@ -1,0 +1,21 @@
+{
+  "name": "http-communicator-service",
+  "description": "VTB communication service",
+  "version": "0.0.0.0",
+  "main": "http-communicator-service.js",
+  "authors": [
+    "hamidullov@vtb.msk.ru"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+ "dependencies": {
+    "angular": "~1.5.8"
+  }
+}
